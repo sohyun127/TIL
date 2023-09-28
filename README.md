@@ -12,3 +12,4 @@
 + [크리스마스 선물 #14235](https://verbose-tablecloth-151.notion.site/14235-3b4c902d8b4a44c580362b548bc61ad8?pvs=4)
 + [돌 게임 #9655](https://verbose-tablecloth-151.notion.site/9655-a87c905a70d9462b84c06ae683e74340?pvs=4)
 + [최소비용 구하기 #1916](https://verbose-tablecloth-151.notion.site/1916-d12cd054bd9b44e38d2fcedd6b86c29c?pvs=4)
++ [2차원 배열의 합 #2167](https://verbose-tablecloth-151.notion.site/2-2167-73bfe11d17ab4069afb750061f4d643e?pvs=4)
