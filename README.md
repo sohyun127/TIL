@@ -5,6 +5,7 @@
 + [앱 아키텍처 가이드](https://verbose-tablecloth-151.notion.site/7646210ca61f471d96e85e70287d1c61?pvs=4)
 + [Activity lifecycle](https://verbose-tablecloth-151.notion.site/Activity-lifecycle-567e2f5ed974410d888d01d7797be138?pvs=4)
 + [코루틴](https://verbose-tablecloth-151.notion.site/Kotlin-152a643f9ae247bc90e23c065e0b1f81?pvs=4)
++ [MVMM](https://verbose-tablecloth-151.notion.site/MVVM-ddb5c7d7907f4eac94b60731bd2a3117?pvs=4)
 ## Argorithm
 + [DFS&BFS #1260](https://verbose-tablecloth-151.notion.site/DFS-BFS-1260-4217be0b10e04fada7c8ae976b45fac7?pvs=4)
 + [N과 M (1) #15649](https://verbose-tablecloth-151.notion.site/N-M-1-15649-6c4493a2f37547f79d771b3111e55a79?pvs=4)
@@ -13,3 +14,5 @@
 + [돌 게임 #9655](https://verbose-tablecloth-151.notion.site/9655-a87c905a70d9462b84c06ae683e74340?pvs=4)
 + [최소비용 구하기 #1916](https://verbose-tablecloth-151.notion.site/1916-d12cd054bd9b44e38d2fcedd6b86c29c?pvs=4)
 + [2차원 배열의 합 #2167](https://verbose-tablecloth-151.notion.site/2-2167-73bfe11d17ab4069afb750061f4d643e?pvs=4)
++ [크루스칼 알고리즘](https://verbose-tablecloth-151.notion.site/7b7aed6b0d8348e79a3cc43260604372?pvs=4)
++ [최소 스패닝 트리 #1197](https://verbose-tablecloth-151.notion.site/1197-60df96848f8f4e5f98c433f37d1d5a03?pvs=4)
